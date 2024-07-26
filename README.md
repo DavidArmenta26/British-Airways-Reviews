@@ -11,4 +11,5 @@ En la carpeta Datasets encontramos los archivos .csv obtenidos para la realizaci
 
 El archivo British Airways Review contiene el dashboard donde se realizó el análisis y las visualizaciones.
 
+![image](https://github.com/user-attachments/assets/b56e71ae-dbb2-4bcb-820f-2d839ce785f3)
 
