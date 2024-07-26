@@ -9,4 +9,6 @@ En la carpeta Datasets encontramos los archivos .csv obtenidos para la realizaci
 - Countries: Este conjuto de datos se usó para realizar diversos filtros en el dashboard, ya que divide al mundo por continente,
   región, código y, por supuesto, país.
 
-El archivo Reviews of British Airways
+El archivo British Airways Review contiene el dashboard donde se realizó el análisis y las visualizaciones.
+
+
