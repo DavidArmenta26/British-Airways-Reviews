@@ -2,7 +2,7 @@
 The purpose of this dashboard is to analyze and visualize the ratings of different aspects of British Airways’ service, allowing users to identify trends, compare performance across different categories, and gain valuable insights into customer satisfaction.
 
 
-## Structure
+# Structure
 In the Datasets folder, we find the .csv files obtained for the analysis. These are:
 
 - ba_reviews: This dataset contains important metrics evaluated by the users, as well as relevant information about the users who wrote the reviews.
