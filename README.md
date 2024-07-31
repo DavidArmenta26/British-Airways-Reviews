@@ -2,7 +2,7 @@
 The purpose of this dashboard is to analyze and visualize the ratings of different aspects of British Airways’ service, allowing users to identify trends, compare performance across different categories, and gain valuable insights into customer satisfaction.
 
 
-# Structure
+## Structure
 In the Datasets folder, we find the .csv files obtained for the analysis. These are:
 
 - ba_reviews: This dataset contains important metrics evaluated by the users, as well as relevant information about the users who wrote the reviews.
@@ -13,7 +13,7 @@ The British Airways Review file contains the dashboard created in Tableau.
 ![image](https://github.com/user-attachments/assets/b56e71ae-dbb2-4bcb-820f-2d839ce785f3)
 
 
-# Analysis
+## Analysis
 Entertainment is the lowest-rated metric by users, with notably low and even negative ratings. It is noteworthy that no aircraft reached a rating of 4.0 or higher in this metric, unlike the others, where at least one aircraft surpassed this rating.
 
 Regarding Overall Rating, there is an upward trend observed from 2016, peaking in 2020, followed by a downward trend until the latest records available in 2023.
@@ -26,7 +26,7 @@ The highest-rated seat type is First Class, with an Overall Rating of 4.4. In th
 
 The line graph shows significant fluctuations in the average monthly ratings from 2016 to 2023, with several notable peaks and drops.
 
-# Conclusions
+## Conclusions
 
 The dashboard provides a clear and detailed view of customer satisfaction across different aspects of British Airways' service. Although the overall rating is high, there are specific areas, such as entertainment, that require improvements.
 
